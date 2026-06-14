@@ -31,4 +31,4 @@
 
 1. Склонируй репозиторий к себе на локальную машину:
 ```bash
-git clone [https://github.com/yolohoo/rpn-calculator.git](https://github.com/yolohoo/rpn-calculator.git)
+git clone https://github.com/yolohoo/rpn-calculator
